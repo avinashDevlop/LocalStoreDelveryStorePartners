@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "331227943033",
+    "firebase_url": "https://facialrecognitiondb-default-rtdb.firebaseio.com",
+    "project_id": "facialrecognitiondb",
+    "storage_bucket": "facialrecognitiondb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331227943033:android:bbd7bdd3023dadaea9c4a8",
+        "android_client_info": {
+          "package_name": "com.avinash_com.localStoreAPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi8o76uLmcYIsWUiyFaylLK_aMmsgEX_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
